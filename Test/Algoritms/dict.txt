@@ -1,0 +1,6 @@
+dog
+camel
+squirrel
+cat
+1
+2
